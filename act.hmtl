@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Steve Depp act</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1>Steve Depp</h1>
+          <p>
+          <a title="act" style="color:mauve;" href="/">work,</a>
+          <a title="learn" style="color:purple;" href="/">family,</a>
+          <a title="modify" style="color:lightblue;" href="/">fun.</a>
+          </p>
+          <a href="/">
+            <img src="./patagonia.jpg" alt="a patagonia tree in b&w">
+          </a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
