@@ -1,0 +1,16 @@
+sqlite3.exe removed to satisfy this email:
+
+From: GitHub <support@github.com>
+Subject: [stevedepp/stevedepp] Page build warning
+Date: April 23, 2021 at 1:14:47 PM EDT
+To: Steve Depp <xxx@xxx.com>
+
+The page build completed successfully, but returned the following warning for the `gh-pages` branch:
+
+It looks like you're using GitHub Pages to distribute binary files. We strongly suggest that you use releases to ship projects on GitHub. Releases are GitHub's way of packaging and providing software to your users. You can think of it as a replacement to using downloads to provide software. We found the following file(s) which may be a good candidate for releases: learn/school/msds/de/420/DEPP_Exercise_4/sqlite3.exe. For more information, see https://docs.github.com/github/administering-a-repository/about-releases.
+
+For information on troubleshooting Jekyll see:
+
+ https://docs.github.com/articles/troubleshooting-jekyll-builds
+
+If you have any questions you can submit a request at https://support.github.com/contact?repo_id=xxx&page_build_id=xxx
