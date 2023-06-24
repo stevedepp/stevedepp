@@ -30,14 +30,9 @@
         <div class="col-sm-12">
         <p>
         Links found during coursework - MSDS 400: Math for Modelers <br>
-        Instructor: <a title="Philip M. Goldfeder, Ph.D.'s Pepperdine page" href="https://gbr.pepperdine.edu/author/p_goldfeder/" target="_blank">Philip M. Goldfeder, Ph.D.</a>  <br>
+        <a style="color:blue;" href="https://www.washingtonpost.com/news/the-fix/wp/2018/04/06/facebooks-dizzying-spin-on-the-cambridge-analytica-thing/" target="_blank">WP: Facebook's dizzying spin on 'the Cambridge-Analytica thing'</a> <br>
         </p>
-        <p>
-        Description: Review of fundamental concepts from calculus, linear algebra, and probability with a focus upon applications in statistics and predictive modeling. The topics covered will include systems of linear equations and matrices, linear programming, concepts of probability underlying both classical and Bayesian statistics, differential calculus and integration. This will be taught using a Just I n Time (JIT) approach.
-        <p>- Build math models.</p>
-        <p>- Interpret math models.</p>
-        <p>- Evaluate math models.</p>
-        </p>
+        <p></p>
         </div>
       </div>
     </div>
